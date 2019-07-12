@@ -2,4 +2,4 @@
 
 process.nextTick(() => {
   console.log(`hello world`)
-}
+})
